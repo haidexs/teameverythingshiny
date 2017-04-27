@@ -1,0 +1,23 @@
+midterm-results.csv
+# data structured upon each student:
+1, audit or not;
+2, right or wrong on each question;
+3, time spent on each question;
+4, total number of how many time one visits each question.
+
+quiz-categories.csv
+# data structured upon each question
+1, knowledge / content
+1.1, decision trees
+1.2, SNA
+1.3, NLP
+1.4, viz
+1.5, neural networks
+
+2, skills
+2.1, wrangling
+2.1, coding
+2.3, jitl: just in time learning
+2.4, subtantive
+
+3, googleable vs. non-googleable.
